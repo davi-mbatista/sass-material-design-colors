@@ -1,6 +1,6 @@
 {
   "name": "sass-material-design-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A handy Sass helper for use the Google material design colors according to the specification.",
   "main": "index.js",
   "scripts": {
