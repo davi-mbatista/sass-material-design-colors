@@ -1,0 +1,26 @@
+{
+  "name": "sass-material-design-colors",
+  "version": "1.0.0",
+  "description": "A handy Sass helper for using the material design colors according to Google Material Design specifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi-mbatista/sass-material-design-colors.git"
+  },
+  "keywords": [
+    "material",
+    "design",
+    "md",
+    "google",
+    "specs"
+  ],
+  "author": "machadobatista.davi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davi-mbatista/sass-material-design-colors/issues"
+  },
+  "homepage": "https://github.com/davi-mbatista/sass-material-design-colors#readme"
+}
