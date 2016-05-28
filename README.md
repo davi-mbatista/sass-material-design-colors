@@ -19,3 +19,7 @@ And use on your styles like this:
 	h1{
 		color: $grey-400;
 	}
+
+## License
+
+This project is licensed under the terms of the [MIT License](http://mit-license.org/).
