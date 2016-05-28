@@ -8,7 +8,7 @@ A handy Sass helper for use the Google material design colors according to the s
 
 Just import `palette.scss` to your sass file like this:
 
-	@import 'node_modules/material-design-colors/palette.scss';
+	@import 'node_modules/sass-material-design-colors/palette.scss';
 
 And use on your styles like this:
 
