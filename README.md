@@ -13,11 +13,11 @@ Just import `palette.scss` to your sass file like this:
 And use on your styles like this:
 
 	body{
-		background-color: $blue-500;
+	 background-color: $blue-500;
 	}
 
 	h1{
-		color: $grey-400;
+	 color: $grey-400;
 	}
 
 ## License
