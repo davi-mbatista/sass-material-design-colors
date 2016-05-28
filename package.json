@@ -1,7 +1,7 @@
 {
   "name": "sass-material-design-colors",
   "version": "1.0.0",
-  "description": "A handy Sass helper for using the material design colors according to Google Material Design specifications.",
+  "description": "A handy Sass helper for use the Google material design colors according to the specification.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
