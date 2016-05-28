@@ -1,7 +1,7 @@
 # sass-material-design-colors
 A handy Sass helper for use the Google material design colors according to the specification.
 
-##Install
+## Install
 	$ npm install --save sass-material-design-colors
 	$ bower install --save sass-material-design-colors
 ## Usage
